@@ -102,15 +102,6 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
 
-# Collections --> This is very important for Projects page
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-
 defaults:
   # _posts
   - scope:
