@@ -15,8 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Saroj Kumar Dash
 email: sarojdash1993@gmail.com
-description: Research aligned to understand Earth's water and biomass fluxes of terrestrial ecosystem
- # this means to ignore newlines until "baseurl:"
+description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -25,15 +24,12 @@ github_username: username
 minimal_mistakes_skin: contrast
 search: true
 
-logo: ""
-masthead_title: " "
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 20 # amount of posts to show
+paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -69,25 +65,18 @@ author:
             University of California, Davis <br>
             Davis, CA, USA"
   links:
-    - label: "Email"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "mailto:skdash@ucdavis.edu"
-      
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/sarojdash1993"
-      
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "www.linkedin.com/in/saroj-kumar-dash-7057a089"
-      
+      url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/sarojdash2014"
-
-    - label: "Google Scholar"
-      icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?user=quScpccAAAAJ&hl=en"    
+      url: "https://twitter.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 footer:
   links:
@@ -97,6 +86,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/"
 
 defaults:
   # _posts
