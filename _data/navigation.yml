@@ -1,11 +1,11 @@
 main:
   - title: "Research"
-    url: /posts/
+    url: /research/
   - title: "Publications"
-    url: /categories/
+    url: /papers/
   - title: "Resources"
-    url: /tags/
+    url: /resources/
   - title: "About"
     url: /about/
   - title: "Contact"
-    url: /about/
+    url: /contact/
