@@ -18,7 +18,6 @@ Gupta, S., Karumanchi, S.H., **Dash, S.K.**, Adla, S., Tripathi, S., Sinha, R., 
 
 **Dash, S.K.**, Sembhi, H., and Sinha, R., “High-resolution crop water stress and soil moisture dynamics over India’s agricultural hotspot using UAV thermal imagery and ECOSTRESS dataset” (Under review in International Journal of Remote Sensing).
 
-<br>
 ## Conferences and Workshops
 
 **S. Dash**, N. E. Bambach, K. Knipper, A. McElrone, W. P. Kustas, A. Gal, M. Levinson, K. Estrada, Spatiotemporal Variability and Impacts of Canopy and Atmospheric Stress in Almond Orchards, 36th Conference on Agricultural and Forest Meteorology, 2025
@@ -47,6 +46,5 @@ D. Paul, S. Tripathi, K. S. Harsha, S. Adla, **S. K. Dash**, Y. Chander, P. Maha
 
 **S. K. Dash**, A. K. Rai; Understanding Earthquakes and Tsunami Hazard in Bay of Bengal, National Conference of Ocean Society of India, 2015
 
-<br>
 ## Seminars and Workshops
 
