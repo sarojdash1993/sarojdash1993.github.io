@@ -1,5 +1,4 @@
 ---
-title: "Posts by Tag"
 permalink: /papers/
 classes: wide
 layout: tags
