@@ -14,7 +14,7 @@ van der Vliet, M., Malbeteau, Y., Ghent, D., de Haas, S., Veal, K., van der Zaan
 
 **Dash, S.K.** & Sinha, R. (2022). Space-time dynamics of soil moisture and groundwater in an agriculture-dominated critical zone observatory (CZO) in the Ganga basin, India. Science of The Total Environment, 851, p.158231. [Link](https://doi.org/10.1016/j.scitotenv.2022.158231){: .btn .btn--inverse}
 
-**Dash, S.K.** & Sinha, R. (2022). A Comprehensive Evaluation of Gridded L-, C-, and X-Band Microwave Soil Moisture Product over the CZO in the Central Ganga Plains, India. Remote Sensing, 14(7), p.1629. DOI: 10.3390/rs14071629){: .btn .btn--inverse}
+**Dash, S.K.** & Sinha, R. (2022). A Comprehensive Evaluation of Gridded L-, C-, and X-Band Microwave Soil Moisture Product over the CZO in the Central Ganga Plains, India. Remote Sensing, 14(7), p.1629. [Link](https://doi.org/10.3390/rs14071629){: .btn .btn--inverse}
 
 Gupta, S., Karumanchi, S.H., **Dash, S.K.**, Adla, S., Tripathi, S., Sinha, R., Paul, D. & Sen, I.S. (2019). Monitoring ecosystem health in India's food basket, Eos science news magazine, 100. [Link](https://doi.org/10.1029/2019EO117683){: .btn .btn--inverse}
 
