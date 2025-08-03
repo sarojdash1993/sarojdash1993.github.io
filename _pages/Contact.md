@@ -6,7 +6,7 @@ layout: single
 author_profile: true
 ---
 
-<figure style="width: 300px" class="align-right">
+<figure style="width: 600px" class="align-right">
   <img src="/assets/images/Location_marker.jpg" alt="">
 </figure>
 
