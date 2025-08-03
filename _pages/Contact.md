@@ -6,11 +6,10 @@ layout: single
 author_profile: true
 ---
 
-<figure style="width: 600px" class="align-right">
-  <img src="/assets/images/Location_marker.jpg" alt="">
-</figure>
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-
+  <!-- Left Column: Contact Info -->
+  <div style="flex: 1;">
 ## Get in Touch
 
 Feel free to reach out to me via email or connect with me on my academic profile.
@@ -22,3 +21,12 @@ Feel free to reach out to me via email or connect with me on my academic profile
 Sustainable Agricultural Water Systems (SAWS),
 239 Hopkins Rd., Davis,
 CA 95616, USA
+
+</div>
+
+  <!-- Right Column: Profile Image -->
+  <div style="flex: 0 0 400px;">
+    <img src="/assets/images/Location_marker.jpg" alt="Marker Photo" style="max-width: 100%; border-radius: 10px;">
+  </div>
+
+</div>
