@@ -3,6 +3,7 @@ permalink: /papers/
 title: ""
 layout: single
 classes: wide
+overlay: false
 author_profile: true
 ---
 
