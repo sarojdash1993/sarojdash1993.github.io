@@ -23,7 +23,6 @@ twitter_username: username
 github_username: username
 minimal_mistakes_skin: contrast
 search: true
-academicons: true
 
 # Build settings
 markdown: kramdown
@@ -79,7 +78,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/sarojdash2014"
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?user=quScpccAAAAJ&hl=en"
 
 #    - label: "Instagram"
