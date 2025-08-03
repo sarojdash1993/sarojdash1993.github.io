@@ -6,6 +6,11 @@ layout: single
 author_profile: true
 ---
 
+<figure style="width: 300px" class="align-right">
+  <img src="/assets/images/Location_find.jpg" alt="">
+</figure>
+
+
 ## Get in Touch
 
 Feel free to reach out to me via email or connect with me on my academic profile.
