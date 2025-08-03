@@ -1,9 +1,15 @@
 ---
 title: "Contact"
 permalink: /contact/
+sitemap: true
 layout: single
 author_profile: true
 ---
+
+<figure style="width: 300px" class="align-right">
+  <img src="/assets/images/Location_marker.jpg" alt="">
+</figure>
+
 
 ## Get in Touch
 
