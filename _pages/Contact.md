@@ -6,10 +6,6 @@ layout: single
 author_profile: true
 ---
 
-<div style="display: flex; align-items: flex-start; gap: 20px;">
-
-  <!-- Left Column: Contact Info -->
-  <div style="flex: 1;">
 ## Get in Touch
 
 Feel free to reach out to me via email or connect with me on my academic profile.
