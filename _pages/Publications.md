@@ -18,7 +18,7 @@ van der Vliet, M., Malbeteau, Y., Ghent, D., de Haas, S., Veal, K., van der Zaan
 
 Gupta, S., Karumanchi, S.H., **Dash, S.K.**, Adla, S., Tripathi, S., Sinha, R., Paul, D. & Sen, I.S. (2019). Monitoring ecosystem health in India's food basket, Eos science news magazine, 100. [Link](https://doi.org/10.1029/2019EO117683){: .btn .btn--inverse}
 
-## Manuscript in Communication
+## Manuscript(s) in Communication
 
 **Dash, S.K.**, Sembhi, H., and Sinha, R., “High-resolution crop water stress and soil moisture dynamics over India’s agricultural hotspot using UAV thermal imagery and ECOSTRESS dataset” (*Under review in International Journal of Remote Sensing*).
 
