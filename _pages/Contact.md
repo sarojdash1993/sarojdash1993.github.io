@@ -23,8 +23,8 @@ classes: wide
     </p>
 
     <p><strong>Email:</strong><br>
-    <a href="mailto:skdash@ucdavis.edu>skdash@ucdavis.edu</a><br>
-    <a href="mailto:sarojdash1993@gmail.com>sarojdash1993@gmail.com</a>
+    [skdash@ucdavis.edu](mailto:skdash@ucdavis.edu)<br>
+    [sarojdash1993@gmail.com](mailto:sarojdash1993@gmail.com)
     </p>
   </div>
 
