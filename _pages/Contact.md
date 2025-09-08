@@ -6,25 +6,23 @@ layout: single
 classes: wide
 ---
 
-<!-- Top full-width intro -->
 <h2>Get in Touch</h2>
 <p>I am always open to discussing research opportunities, collaborations, or academic inquiries. Please feel free to reach out to me with the following channels:</p>
 
-<!-- Two-column layout below -->
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start; margin-top: 20px;">
 
   <!-- Left Column: Office & Email -->
   <div style="flex: 1; min-width: 250px;">
     <p><strong>Office:</strong><br>
-    Crop Sensing Group, <br>
+    Crop Sensing Group,<br>
     Sustainable Agricultural Water Systems (SAWS)<br>
     239 Hopkins Rd., Davis,<br>
     CA 95616, USA
     </p>
 
     <p><strong>Email:</strong><br>
-    <a href=mailto:skdash@ucdavis.edu>skdash@ucdavis.edu</a><br>
-    <a href=mailto:sarojdash1993@gmail.com>sarojdash1993@gmail.com</a>
+    [skdash@ucdavis.edu](mailto:skdash@ucdavis.edu)<br>
+    [sarojdash1993@gmail.com](mailto:sarojdash1993@gmail.com)
     </p>
   </div>
 
