@@ -6,10 +6,6 @@ layout: single
 classes: wide
 ---
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
-
-  <!-- Left Column: Contact Info -->
-  <div style="flex: 1; min-width: 250px;">
 ## Get in Touch
 I am always open to discussing research opportunities, collaborations, or academic inquiries. Please feel free to reach out me with the following channels:
 
@@ -34,5 +30,3 @@ CA 95616, USA<br>
       loading="lazy">
     </iframe>
   </div>
-
-</div>
