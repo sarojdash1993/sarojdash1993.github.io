@@ -13,5 +13,5 @@ Sustainable Agricultural Water Systems (SAWS),<br>
 239 Hopkins Rd., Davis,<br>
 CA 95616, USA<br>
 <br>
-**📧 Email:** [skdash@ucdavis.edu](mailto:skdash@ucdavis.edu)<br>
-<div style="margin-left: 60px;">[sarojdash1993@gmail.com](mailto:sarojdash1993@gmail.com)</div>
+**Email:** [skdash@ucdavis.edu](mailto:skdash@ucdavis.edu)<br>
+        [sarojdash1993@gmail.com](mailto:sarojdash1993@gmail.com)
