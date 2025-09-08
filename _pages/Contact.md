@@ -12,7 +12,7 @@ classes: wide
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start; margin-top: 20px;">
 
   <!-- Left Column: Office & Email -->
-  <div style="flex: 1; min-width: 250px;" markdown="1">
+  <div style="flex: 1; min-width: 250px;">
     <p><strong>Office:</strong><br>
     Crop Sensing Group,<br>
     Sustainable Agricultural Water Systems (SAWS)<br>
