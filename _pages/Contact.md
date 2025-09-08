@@ -6,14 +6,37 @@ layout: single
 classes: wide
 ---
 
-## Get in Touch
-I am always open to discussing research opportunities, collaborations, or academic inquiries. Please feel free to reach out me with the following channels:
+<div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
 
-### Office:
-Sustainable Agricultural Water Systems (SAWS),<br>
-239 Hopkins Rd., Davis,<br>
-CA 95616, USA<br>
-### Email:
-[skdash@ucdavis.edu](mailto:skdash@ucdavis.edu)<br>
-[sarojdash1993@gmail.com](mailto:sarojdash1993@gmail.com)
+  <!-- Left Column: Text Content -->
+  <div style="flex: 1; min-width: 250px;">
 
+    <h2>Get in Touch</h2>
+    <p>I am always open to discussing research opportunities, collaborations, or academic inquiries. Please feel free to reach out me with the following channels:</p>
+
+    <p><strong>Office:</strong><br>
+    Hydrology Group, XYZ Lab<br>
+    University of California, Davis<br>
+    Davis, CA, USA
+    </p>
+
+    <p><strong>Email:</strong><br>
+    saroj.dash@ucdavis.edu<br>
+    collab.email@ucdavis.edu
+    </p>
+
+  </div>
+
+  <!-- Right Column: Google Map -->
+  <div style="flex: 0 0 400px;">
+    <iframe 
+      src="https://www.google.com/maps/embed?pb=!1m18!..." 
+      width="100%" 
+      height="300" 
+      style="border:0; border-radius: 10px;" 
+      allowfullscreen="" 
+      loading="lazy">
+    </iframe>
+  </div>
+
+</div>
