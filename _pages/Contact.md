@@ -3,14 +3,16 @@ title: "Contact"
 permalink: /contact/
 sitemap: true
 layout: single
-author_profile: false
+author_profile: true
 classes: wide
 ---
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start;">
 
   <!-- Left Column: Contact Info -->
   <div style="flex: 1; min-width: 250px;">
-    ## Get in Touch
+    
+## Get in Touch
+I am always open to discussing research opportunities, collaborations, or academic inquiries. Please feel free to reach out through the channels below:
 ### Email
 - [skdash@ucdavis.edu](mailto:skdash@ucdavis.edu)
 - [sarojdash1993@gmail.com](mailto:sarojdash1993@gmail.com)
