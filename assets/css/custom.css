@@ -1,0 +1,9 @@
+/* Style About page headings */
+.page-about h2 {
+  color: #8B0000; /* Dark red */
+  margin-top: 1.2em; /* reduce top gap */
+  margin-bottom: 0.4em; /* reduce gap before text */
+  display: inline-block; /* shrink underline to text width */
+  border-bottom: 3px solid #8B0000; /* short underline */
+  padding-bottom: 2px;
+}
