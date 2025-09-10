@@ -10,20 +10,20 @@ author_profile: true
 I am a Post-doctoral researcher at University of California, Davis, working in the multidisciplinary plant processes in the Crop Sensing group [T-Rex Team](https://www.t-rexproject.com/meet-the-team). My research here inclined towards the stability of gross primary productivity (GPP) and evapotranspiration processes and their sensitivity to crop water stress over the almond and grapevine orchards in California's central valley. Using an extensive datasets from the Eddy Covariance towers along with remote sensing of based plant and soil water fluxes, I interplay the threshold of these processes by utilizing numerous modelling tools and techniques.
 
 ## Research Positions
-Postdoctoral Scholar, University of California, Davis, USA
-Research Associate, National Centre for Earth Science Studies, India
-Project Scientist, Indian Institute of Technology Kanpur, India
-Visiting Research Student, University of Leicester and King’s College London, UK
-Research Scholar, Indian Institute of Technology Kanpur, India
+- Postdoctoral Scholar, University of California, Davis, USA
+- Research Associate, National Centre for Earth Science Studies, India
+- Project Scientist, Indian Institute of Technology Kanpur, India
+- Visiting Research Student, University of Leicester and King’s College London, UK
+- Research Scholar, Indian Institute of Technology Kanpur, India
 
 ## Honors and Awards
-First prize in Flash presentation at the UC Davis Postdoctoral Symposium (2025)
-IEEE GRSS Travel Support for attending International Soil Moisture School at IIT Bombay (2023)
-Student travel grant for attending AGU Fall Meeting held at Washington, USA (2018)
-Summer Research Intern (Funded) at Wadia Institute of Himalayan Geology (2014)
-INSPIRE scholarship by Department of Science and Technology, Government of India (2010–2015)
+- First prize in Flash presentation at the UC Davis Postdoctoral Symposium (2025)
+- IEEE GRSS Travel Support for attending International Soil Moisture School at IIT Bombay (2023)
+- Student travel grant for attending AGU Fall Meeting held at Washington, USA (2018)
+- Summer Research Intern (Funded) at Wadia Institute of Himalayan Geology (2014)
+- INSPIRE scholarship by Department of Science and Technology, Government of India (2010–2015)
 
 ## Professional Education
-Ph.D., Indian Institute of Technology Kanpur, Earth Science (2023)
-M.Sc., Indian Institute of Technology Bhubaneswar, Geology,	(2015)
-B.Sc.,	Ravenshaw University, Geology, (2013)
+- Ph.D., Indian Institute of Technology Kanpur, Earth Science (2023)
+- M.Sc., Indian Institute of Technology Bhubaneswar, Geology,	(2015)
+- B.Sc.,	Ravenshaw University, Geology, (2013)
