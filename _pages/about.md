@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: ""
-classes: wide
+classes: wide about-page
 layout: single
 sitemap: true
 author_profile: true
