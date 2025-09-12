@@ -10,7 +10,7 @@ search: false
 /* Only for About page */
 .about-page {
   p {
-    font-size: 38px;   /* normal text */
+    font-size: 18px;   /* normal text */
   }
 
   h2 {
@@ -20,4 +20,7 @@ search: false
   li {
     font-size: 18px;   /* bullet points */
   }
+  .page__content h2 {
+  color: #800000;
+}
 }
