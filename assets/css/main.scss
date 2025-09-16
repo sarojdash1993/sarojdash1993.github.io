@@ -22,3 +22,9 @@ search: false
   }
 }
 
+/* Underline h3 headings only on Gallery page */
+.page-gallery h3 {
+  
+  border-bottom: 2px solid #8B0000; /* underline */
+  display: inline-block;         /* underline only as wide as text */  
+}
