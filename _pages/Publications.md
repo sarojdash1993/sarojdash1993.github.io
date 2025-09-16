@@ -16,7 +16,7 @@ author_profile: true
 
 | **Dash, S.K.** & Sinha, R. (2022). A Comprehensive Evaluation of Gridded L-, C-, and X-Band Microwave Soil Moisture Product over the CZO in the Central Ganga Plains, India. Remote Sensing, 14(7), p.1629. [Link](https://doi.org/10.3390/rs14071629){: .btn .btn--inverse} |
 
-| Gupta, S., Karumanchi, S.H., **Dash, S.K.**, Adla, S., Tripathi, S., Sinha, R., Paul, D. & Sen, I.S. (2019). Monitoring ecosystem health in India's food basket, Eos science news magazine, 100. [Link](https://doi.org/10.1029/2019EO117683){: .btn .btn--inverse} |
+| Gupta, S., Karumanchi, S.H., **Dash, S.K.**, Adla, S., Tripathi, S., Sinha, R., Paul, D. & Sen, I.S. (2019). Monitoring ecosystem health in India's food basket, Eos Science News Magazine, 100. [Link](https://doi.org/10.1029/2019EO117683){: .btn .btn--inverse} |
 
 ## Manuscript(s) in Communication
 
