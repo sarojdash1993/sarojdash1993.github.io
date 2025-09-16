@@ -6,14 +6,14 @@ layout: single
 classes: wide
 ---
 
-## Scientific Meetings
-Include various images including the poster award from IITB IEEE sessions
-## Field Works
+### Scientific Meetings
+Include various images including the poster award from IITB IEEE sessions, UCD symposium
+### Field Works
 MSc, PhD field photos
-## Cultural Events
+### Cultural Events
 Utkal Parishad and Department cultural events
-## Travel Diaries
+### Travel Diaries
 Various travel photos throughout years
-## Home
+### Home
 Snaps of the home. village memories
 
