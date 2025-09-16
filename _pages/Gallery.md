@@ -7,7 +7,7 @@ classes: wide
 ---
 
 ### Scientific Meetings
-| |
+|                      
 Include various images including the poster award from IITB IEEE sessions, UCD symposium
 ### Field Works
 MSc, PhD field photos
