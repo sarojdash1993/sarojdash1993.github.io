@@ -5,6 +5,8 @@ main:
     url: /papers/
   - title: "Resources"
     url: /resources/
+  - title: "Gallery"
+    url: /gallery/ 
   - title: "About"
     url: /about/
   - title: "Contact"
