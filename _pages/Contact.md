@@ -19,10 +19,10 @@ I am always open to discussing research opportunities, collaborations, or academ
     239 Hopkins Rd., Davis,<br>
     CA 95616, USA
 
-    <strong>Email:</strong><br>
+    <p><strong>Email:</strong><br>
     [skdash@ucdavis.edu](mailto:skdash@ucdavis.edu)<br>
     [sarojdash1993@gmail.com](mailto:sarojdash1993@gmail.com)
-    
+    </p>
   </div>
 
   <!-- Right Column: Google Map -->
