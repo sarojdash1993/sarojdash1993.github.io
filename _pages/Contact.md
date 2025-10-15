@@ -13,15 +13,16 @@ I am always open to discussing research opportunities, collaborations, or academ
 
   <!-- Left Column: Office & Email -->
   <div style="flex: 1; min-width: 250px;">
-    <p><strong>Office:</strong><br>
+    <strong>Office:</strong><br>
     Crop Sensing Group,<br>
     Sustainable Agricultural Water Systems (SAWS)<br>
     239 Hopkins Rd., Davis,<br>
-    CA 95616, USA<br>
-<br>
-    Email:<br>
+    CA 95616, USA
+
+    <strong>Email:</strong><br>
     [skdash@ucdavis.edu](mailto:skdash@ucdavis.edu)<br>
     [sarojdash1993@gmail.com](mailto:sarojdash1993@gmail.com)
+    
   </div>
 
   <!-- Right Column: Google Map -->
