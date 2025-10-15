@@ -24,6 +24,8 @@ I am a Post-doctoral researcher at University of California, Davis, working in t
 - INSPIRE scholarship by Department of Science and Technology, Government of India (2010–2015)
 
 ## Professional Education
-- Ph.D., Indian Institute of Technology Kanpur, Earth Science (2023)
-- M.Sc., Indian Institute of Technology Bhubaneswar, Geology,	(2015)
-- B.Sc.,	Ravenshaw University, Geology, (2013)
+- Ph.D., Earth Science, Indian Institute of Technology Kanpur (2023)
+  Thesis title: Space-time hydrodynamics and crop water stress using multi-source Earth Observation data from an agriculture-dominated Critical Zone Observatory (CZO) in the Ganga basin, India
+  Thesis Supervisor: Prof. Rajiv Sinha
+- M.Sc., Geology,	Indian Institute of Technology Bhubaneswar, (2015)
+- B.Sc.,	Geology, Ravenshaw University, (2013)
