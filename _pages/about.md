@@ -26,6 +26,6 @@ I am a Post-doctoral researcher at University of California, Davis, working in t
 ## Professional Education
 - Ph.D., Earth Science, [Indian Institute of Technology Kanpur](https://www.iitk.ac.in/) (2023) <br>
   Thesis title: Space-time hydrodynamics and crop water stress using multi-source Earth Observation data from an agriculture-dominated Critical Zone Observatory (CZO) in the Ganga basin, India <br>
-  Thesis Supervisor: [Prof. Rajiv Sinha](https://home.iitk.ac.in/~rsinha/) and [Dr. Harjinder Sembhi](https://le.ac.uk/people/harjinder-sembhi)
+  Thesis Supervisor(s): [Prof. Rajiv Sinha](https://home.iitk.ac.in/~rsinha/) (Supervisor) and [Dr. Harjinder Sembhi](https://le.ac.uk/people/harjinder-sembhi) (Co-supervisor)
 - M.Sc., Geology,	[Indian Institute of Technology Bhubaneswar](https://www.iitbbs.ac.in/), (2015)
 - B.Sc.,	Geology, [Ravenshaw University](https://ravenshawuniversity.ac.in/), (2013)
