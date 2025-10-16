@@ -7,7 +7,7 @@ classes: wide
 ---
 
 <h2>Get in Touch</h2>
-I am always open to discussing research opportunities, collaborations, or academic inquiries. Please feel free to reach out to me with the following channels:<br>
+I am always open to discussing potential research opportunities, collaborations, or academic inquiries. Please feel free to reach out to me with the following channels:<br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; align-items: flex-start; margin-top: 20px;">
 
