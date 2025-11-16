@@ -20,7 +20,7 @@ author_profile: true
 
 ## Manuscript(s) in Communication
 
-| **Dash, S.K.**, Sembhi, H., and Sinha, R., “High-resolution crop water stress and soil moisture dynamics over India’s agricultural hotspot using UAV thermal imagery and ECOSTRESS dataset” (*Under review in International Journal of Remote Sensing*). |
+| **Dash, S.K.**, Sembhi, H., and Sinha, R., “High-resolution crop water stress and soil moisture dynamics over India’s agricultural hotspot using UAV thermal imagery and ECOSTRESS dataset” (*Accepted for publication in International Journal of Remote Sensing*). |
 
 ## Conferences and Workshops
 
