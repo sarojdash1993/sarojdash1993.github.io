@@ -8,6 +8,8 @@ author_profile: true
 
 ## Journals and Science Magazines
 
+| **Dash, S.K.**, Sembhi, H. and Sinha, R., 2025. Integrating UAV thermal imagery and in-situ data for high-resolution crop water stress–soil moisture dynamics over India’s agricultural hotspot. International Journal of Remote Sensing, pp.1-26. [Link](https://doi.org/10.1080/01431161.2025.2593684){: .btn .btn--inverse} |
+
 | **Dash, S.K.**, Sembhi, H., Langsdale, M., Wooster, M., Dodd, E., Ghent, D. and Sinha, R. (2025). Assessing the field-scale crop water condition over an intensive agricultural plain using UAV-based thermal and multispectral imagery. Journal of Hydrology, 655, p.132966. [Link](https://doi.org/10.1016/j.jhydrol.2025.132966){: .btn .btn--inverse} |
 
 | van der Vliet, M., Malbeteau, Y., Ghent, D., de Haas, S., Veal, K., van der Zaan, T., Sinha, R., **Dash, S.K.** & Houborg, R. & de Jeu, R. (2024). Quantifiable impact: monitoring landscape restoration from space. A regreening case study in Tanzania. Frontiers in Environmental Science, 12, p.1352058. [Link](https://doi.org/10.3389/fenvs.2024.1352058){: .btn .btn--inverse} |
@@ -20,7 +22,9 @@ author_profile: true
 
 ## Manuscript(s) in Communication
 
-| **Dash, S.K.**, Sembhi, H., and Sinha, R., “Integrating UAV thermal imagery and <i>in-situ</i> data for high-resolution crop water stress–soil moisture dynamics over India’s agricultural hotspot” (*Accepted for publication in International Journal of Remote Sensing*). |
+| **Dash, S.K.**, et al., “Investigating the performance of operational global soil moisture products over India using multi-climatic in-situ observation network” (*In-preparation*). |
+
+| **Dash, S.K.**, et al., “Atmospheric components outweigh soil moisture drives gross primary productivity (GPP) in Mediterranean tree crops” (*In-preparation*). |
 
 ## Conferences and Workshops
 
