@@ -22,7 +22,7 @@ author_profile: true
 
 ## Manuscript(s) in Communication
 
-| Meena A., Swarnkar S., **Dash, S.K.**, Surjibhai A.S., “Linking Compound Dry-Hot Extremes to Vegetation Decline in Central India” (*Submitted to Journal of Hydrology*). |
+| Meena A., Swarnkar S., **Dash, S.K.**, Surjibhai A.S., “Linking Compound Dry-Hot Extremes to Vegetation Decline in Central India” (*Under Review in Ecohydrology*). |
 
 | **Dash, S.K.**, et al., “Investigating the performance of operational global soil moisture products over India using multi-climatic in-situ observation network” (*In-preparation*). |
 
